@@ -1,7 +1,7 @@
 public class helloWorld{
     public static void main(String[] args){
         int studentAge = 15;
-        char studentName = 'S';
+        String studentName = "Sebastian";
         double gpa = 3.5;
         boolean perfectScore = false;
 
